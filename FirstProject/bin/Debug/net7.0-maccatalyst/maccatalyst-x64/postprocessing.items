@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="FirstProject.app/Contents/MacOS/FirstProject">
+      <BCSymbolMapName>FirstProject.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>FirstProject.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/trannhatnam/MAUIProjects/FirstProject/FirstProject/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>FirstProject.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/trannhatnam/MAUIProjects/FirstProject/FirstProject</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,56 @@
+﻿<Properties StartupConfiguration="{613ADFEF-B87E-46EB-B8BF-24F0AF578DD3}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.FirstProject PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FirstProject/AppShell.xaml">
+    <Files>
+      <File FileName="FirstProject/MainPage.xaml.cs" Line="17" Column="55" />
+      <File FileName="FirstProject/MainPage.xaml" Line="40" Column="32" />
+      <File FileName="FirstProject/AppShell.xaml" Line="26" Column="1" />
+      <File FileName="FirstProject/Platforms/MacCatalyst/Program.cs" Line="13" Column="1" />
+      <File FileName="FirstProject/Platforms/Windows/App.xaml" Line="1" Column="1" />
+      <File FileName="FirstProject/Platforms/Windows/app.manifest" Line="1" Column="1" />
+      <File FileName="FirstProject/ContactUs.xaml" Line="13" Column="1" />
+      <File FileName="FirstProject/MauiProgram.cs" Line="1" Column="1" />
+      <File FileName="FirstProject/App.xaml" Line="5" Column="31" />
+      <File FileName="FirstProject/ContactUs.xaml.cs" Line="3" Column="30" />
+      <File FileName="FirstProject/AboutUs.xaml" Line="11" Column="27" />
+      <File FileName="FirstProject/AboutUs.xaml.cs" Line="1" Column="1" />
+      <File FileName="FirstProject/Resources/Raw/AboutAssets.txt" Line="1" Column="1" />
+      <File FileName="FirstProject/Resources/Splash/splash.svg" Line="1" Column="1" />
+      <File FileName="FirstProject/Resources/Styles/Colors.xaml" Line="1" Column="1" />
+      <File FileName="FirstProject/Resources/Images/dotnet_bot.svg" Line="39" Column="7" />
+      <File FileName="FirstProject/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="FirstProject/AppShell.xaml.cs" Line="3" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FirstProject" expanded="True">
+            <Node name="FirstProject" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="AppIcon" expanded="True" />
+                <Node name="Fonts" expanded="True" />
+                <Node name="Images" expanded="True" />
+                <Node name="Raw" expanded="True" />
+                <Node name="Splash" expanded="True" />
+                <Node name="Styles" expanded="True" />
+              </Node>
+              <Node name="AppShell.xaml" expanded="True" selected="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
