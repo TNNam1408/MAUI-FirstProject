@@ -40,8 +40,6 @@
                 TextColor="Black"
                 BackgroundColor="Peru"
                 HorizontalOptions="Center" />
-
         </VerticalStackLayout>
     </ScrollView>
 </ContentPage>
-

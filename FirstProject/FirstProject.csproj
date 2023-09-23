@@ -58,4 +58,16 @@
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="7.0.0" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <None Remove="Resources\Main\" />
+	  <None Remove="Resources\Main\MainPage\" />
+	  <None Remove="Resources\Main\ContactUs\" />
+	  <None Remove="Resources\Main\AboutUs\" />
+	</ItemGroup>
+	<ItemGroup>
+	  <Folder Include="Resources\Main\" />
+	  <Folder Include="Resources\Main\MainPage\" />
+	  <Folder Include="Resources\Main\ContactUs\" />
+	  <Folder Include="Resources\Main\AboutUs\" />
+	</ItemGroup>
 </Project>

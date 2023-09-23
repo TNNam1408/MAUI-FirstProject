@@ -20,24 +20,19 @@
         <ShellContent
         Title="Home"
         ContentTemplate="{DataTemplate local:MainPage}"
-        Route="MainPage"
-        Icon="dotnet_bot.png"
-        />
+        Route="MainPage"/>
 
         <ShellContent
         Title="ContactUs"
         ContentTemplate="{DataTemplate local:ContactUs}"
         Route="ContactUs"
-        Icon="dotnet_bot.png"
         />
 
         <ShellContent
         Title="AboutUs"
         ContentTemplate="{DataTemplate local:AboutUs}"
         Route="AboutUs"
-        Icon="dotnet_bot.png"
         />
     </FlyoutItem>
-
 </Shell>
 
