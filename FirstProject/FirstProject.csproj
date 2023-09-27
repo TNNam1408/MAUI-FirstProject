@@ -61,13 +61,17 @@
 	<ItemGroup>
 	  <None Remove="Resources\Main\" />
 	  <None Remove="Resources\Main\MainPage\" />
-	  <None Remove="Resources\Main\ContactUs\" />
-	  <None Remove="Resources\Main\AboutUs\" />
+	  <None Remove="Resources\Main\SecondPage\" />
+	  <None Remove="Resources\Main\ThirdPage\" />
+	  <None Remove="Resources\Images\icon_back.svg" />
 	</ItemGroup>
 	<ItemGroup>
 	  <Folder Include="Resources\Main\" />
 	  <Folder Include="Resources\Main\MainPage\" />
-	  <Folder Include="Resources\Main\ContactUs\" />
-	  <Folder Include="Resources\Main\AboutUs\" />
+	  <Folder Include="Resources\Main\SecondPage\" />
+	  <Folder Include="Resources\Main\ThirdPage\" />
+	</ItemGroup>
+	<ItemGroup>
+	  <BundleResource Include="Resources\Images\icon_back.svg" />
 	</ItemGroup>
 </Project>

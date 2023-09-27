@@ -40,6 +40,17 @@
                 TextColor="Black"
                 BackgroundColor="Peru"
                 HorizontalOptions="Center" />
+
+            <Button
+                Margin="100,50,100,50"
+                Padding="100,50,100,50"
+                x:Name="PushSecondPageBtn"
+                Text="Continue to Second Page"
+                SemanticProperties.Hint="Second page"
+                Clicked="OnPushAsyncSecondPageClicked"
+                TextColor="Black"
+                BackgroundColor="Peru"
+                HorizontalOptions="Center" />
         </VerticalStackLayout>
     </ScrollView>
 </ContentPage>

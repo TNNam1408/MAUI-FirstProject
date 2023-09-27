@@ -257,3 +257,6 @@
 /Users/trannhatnam/MAUIProjects/FirstProject/FirstProject/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/FirstProject.pdb
 /Users/trannhatnam/MAUIProjects/FirstProject/FirstProject/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/FirstProject.genruntimeconfig.cache
 /Users/trannhatnam/MAUIProjects/FirstProject/FirstProject/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/ref/FirstProject.dll
+/Users/trannhatnam/MAUIProjects/FirstProject/FirstProject/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/icon_back.png
+/Users/trannhatnam/MAUIProjects/FirstProject/FirstProject/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/icon_back@2x.png
+/Users/trannhatnam/MAUIProjects/FirstProject/FirstProject/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/icon_back@3x.png

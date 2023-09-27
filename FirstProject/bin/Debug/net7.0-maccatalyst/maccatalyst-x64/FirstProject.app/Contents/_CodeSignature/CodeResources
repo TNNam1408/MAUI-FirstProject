@@ -12,6 +12,10 @@
 		<data>
 		yJWwNCrzKR5oWPxLmaLRu2H7QhQ=
 		</data>
+		<key>Resources/Images/icon_back.svg</key>
+		<data>
+		NbZx/xCl+lbNrMDAVJXlnBDT9/Q=
+		</data>
 		<key>Resources/MauiInfo.plist</key>
 		<data>
 		iEtuUGCV6JM3gxS/pO33swhmpp8=
@@ -44,6 +48,18 @@
 		<data>
 		AgG9OaBqGlLlSsDbnE/6b1bb0xU=
 		</data>
+		<key>Resources/icon_back.png</key>
+		<data>
+		+yB2XRPKU+qlJz/MH9JQfwV0nyM=
+		</data>
+		<key>Resources/icon_back@2x.png</key>
+		<data>
+		C7Kvh+0jmCh7BEAArXjRHoW91ds=
+		</data>
+		<key>Resources/icon_back@3x.png</key>
+		<data>
+		Z020eYia4KxU7aY1t0q1e7p2ysY=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -51,14 +67,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/9NZZWE3RzGFm/al4/7aiJLUKpJqfQWRNBYdBFOvZas=
+			7OvuHWHEQFLHDS3WB278OSDamYehVVQZ5+o+vF3nNPI=
 			</data>
 		</dict>
 		<key>MonoBundle/FirstProject.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ezfW/PTApTX7kxz1177zsk15pMCKaa1ANbLij/CBh/A=
+			frfn8fB0lq7bagZUx4RRnVPQaWUupwe13l9tB+MhnMY=
 			</data>
 		</dict>
 		<key>MonoBundle/Microsoft.CSharp.dll</key>
@@ -1426,6 +1442,13 @@
 			+lLAFyETc4ZUEE//bmtDqcWEdISbLT5fbaXzC50O+40=
 			</data>
 		</dict>
+		<key>Resources/Images/icon_back.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Y6pnxABUxSESNyM4i4n+CDPQxrO1uYym6+PpASck7jo=
+			</data>
+		</dict>
 		<key>Resources/MauiInfo.plist</key>
 		<dict>
 			<key>hash2</key>
@@ -1480,6 +1503,27 @@
 			<key>hash2</key>
 			<data>
 			06Dw48r2qORp1zVQzu1FMEqEQpN18taU/bp0JACYc40=
+			</data>
+		</dict>
+		<key>Resources/icon_back.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			B5ydSU+qK4ZX7rG0zG+u3nP5m3IwArS18obtTWRbxVw=
+			</data>
+		</dict>
+		<key>Resources/icon_back@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			obvAWcd3R93LtuqqqLRs3U5Z+K7k0ote1rGqmD6p0YI=
+			</data>
+		</dict>
+		<key>Resources/icon_back@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MHHfmuAhPEB/fOOf7e4/iKmPcikqJ56RjddoTrx0GRk=
 			</data>
 		</dict>
 	</dict>

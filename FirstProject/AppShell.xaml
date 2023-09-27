@@ -16,22 +16,16 @@
             />
     </Shell.FlyoutHeader>
 
-    <FlyoutItem Title="Home" FlyoutDisplayOptions="AsMultipleItems">
+    <FlyoutItem Title="MainPage" FlyoutDisplayOptions="AsMultipleItems">
         <ShellContent
-        Title="Home"
+        Title="MainPage"
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="MainPage"/>
 
         <ShellContent
-        Title="ContactUs"
-        ContentTemplate="{DataTemplate local:ContactUs}"
-        Route="ContactUs"
-        />
-
-        <ShellContent
-        Title="AboutUs"
-        ContentTemplate="{DataTemplate local:AboutUs}"
-        Route="AboutUs"
+        Title="SecondPage"
+        ContentTemplate="{DataTemplate local:SecondPage}"
+        Route="SecondPage"
         />
     </FlyoutItem>
 </Shell>

@@ -20,6 +20,11 @@ public partial class MainPage : ContentPage
 
         SemanticScreenReader.Announce(CounterBtn.Text);
     }
+
+    private void OnPushAsyncSecondPageClicked(object sender, EventArgs e)
+    {
+        Navigation.PushAsync(new ThirdPage());
+    }
 }
 
 
